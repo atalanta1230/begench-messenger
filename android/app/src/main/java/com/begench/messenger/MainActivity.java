@@ -12,7 +12,7 @@ import android.webkit.PermissionRequest;
 public class MainActivity extends Activity {
 
     // URL туннеля — обновить после создания нового Deno аккаунта
-    private static final String SERVER_URL = "https://ЗАМЕНИ_НА_СВОЙ_URL.deno.net";
+    private static final String SERVER_URL = "https://begench-messenger.atalanta-messenger.deno.net";
 
     private WebView webView;
 
